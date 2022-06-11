@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#clock{
+    font-family: 'JetBrains Mono', monospace;
+    text-align: center;
+    margin: 400px 0px 0px 0px;
+    font-size: 100px; 
+    color: #fff;   
+}
+
+body {
+    background-color: #000;
+}
